@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace AI_Labs_CiobanuArtiom_I1902
+namespace Lab1
 {
     internal class Program
     {
@@ -10,8 +10,8 @@ namespace AI_Labs_CiobanuArtiom_I1902
         {
             Console.Write("Введите строку:");
 
-            //string input = Console.ReadLine();
-            string input = "ababcd";
+            string input = Console.ReadLine();
+            //string input = "ababcd";
 
             if (input.Length % 2 == 0)
             {

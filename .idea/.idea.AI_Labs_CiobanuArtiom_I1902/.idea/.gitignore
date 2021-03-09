@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.AI_Labs_CiobanuArtiom_I1902.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../:\Projects\Labs\AI_Labs_CiobanuArtiom_I1902\.idea\.idea.AI_Labs_CiobanuArtiom_I1902\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
